@@ -1,0 +1,6 @@
+framework module Pods_RxSwift_TableView {
+  umbrella header "Pods-RxSwift-TableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

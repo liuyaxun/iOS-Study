@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'RxSwift-TableView' do
+  use_frameworks!
+
+  pod 'Moya/RxSwift', '~> 10.0.0'
+  pod 'RxDataSources', '~> 3.0.2'
+  pod 'ObjectMapper', '~> 3.1.0'
+  pod 'RxSwift', '~> 4.0.0'
+  pod 'RxCocoa', '~> 4.0.0'
+  pod 'SnapKit', '~> 4.0.0'
+
+end
